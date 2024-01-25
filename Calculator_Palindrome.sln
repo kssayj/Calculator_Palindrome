@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator_Palindrome", "Calculator_Palindrome\Calculator_Palindrome.vcxproj", "{4AA180AC-EE5A-4139-9D66-765DB5085FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Debug|x64.ActiveCfg = Debug|x64
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Debug|x64.Build.0 = Debug|x64
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Debug|x86.Build.0 = Debug|Win32
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Release|x64.ActiveCfg = Release|x64
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Release|x64.Build.0 = Release|x64
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Release|x86.ActiveCfg = Release|Win32
+		{4AA180AC-EE5A-4139-9D66-765DB5085FED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5371654D-BABB-406E-9757-51D7CC92BCB2}
+	EndGlobalSection
+EndGlobal
